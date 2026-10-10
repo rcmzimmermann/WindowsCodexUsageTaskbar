@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio / .NET user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider / ReSharper
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Test and package output
+TestResults/
+*.nupkg
+*.snupkg
+
+# OS and editor files
+.DS_Store
+Thumbs.db
